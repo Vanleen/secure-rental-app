@@ -1,0 +1,8 @@
+{
+  "name": "secure-rental-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Vanleen/secure-rental-app.git",
+  "author": "Vanilda Vasconcelos <vanilda.vas@gmail.com>",
+  "license": "MIT"
+}
